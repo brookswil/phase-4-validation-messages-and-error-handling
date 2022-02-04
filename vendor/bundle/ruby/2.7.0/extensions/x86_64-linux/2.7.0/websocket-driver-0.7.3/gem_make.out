@@ -1,0 +1,15 @@
+current directory: /home/brooks88/Development/school-work/mod4/client_server_communication/phase-4-validation-messages-and-error-handling/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+/usr/share/rvm/rubies/ruby-2.7.4/bin/ruby -I /usr/share/rvm/rubies/ruby-2.7.4/lib/ruby/site_ruby/2.7.0 -r ./siteconf20220203-3945-1i5uppv.rb extconf.rb
+creating Makefile
+
+current directory: /home/brooks88/Development/school-work/mod4/client_server_communication/phase-4-validation-messages-and-error-handling/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make DESTDIR\= clean
+
+current directory: /home/brooks88/Development/school-work/mod4/client_server_communication/phase-4-validation-messages-and-error-handling/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make DESTDIR\=
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/brooks88/Development/school-work/mod4/client_server_communication/phase-4-validation-messages-and-error-handling/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make DESTDIR\= install
+/bin/install -m 0755 websocket_mask.so ./.gem.20220203-3945-1g32gei
